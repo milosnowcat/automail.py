@@ -48,6 +48,10 @@ import utils
 from getpass import getpass
 
 def main():
+    """
+    The main function prompts the user for their Gmail, password, recipient, subject, and body, and then
+    uses the utils module to send an email with the provided information.
+    """
     sender = input("Your gmail: ")
     password = getpass()
     recipient = input("Send mail to: ")
