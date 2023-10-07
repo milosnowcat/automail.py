@@ -11,6 +11,8 @@ Before using the project, ensure you have Python installed on your system. You c
 
 ### Installation Steps
 
+**You can download for windows without python [here](https://github.com/milosnowcat/automail.py/releases/latest)!**
+
 1. Clone the GitHub repository containing the AutoMail.py project to your local machine using the following command:
 
    ```bash
